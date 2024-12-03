@@ -6,6 +6,9 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
+    printf("Carta 1 - Estado: SP, Código: A01, População: 12300000
+Carta 2 - Estado: RJ, Código: B02, População: 6000000
+Resultado: Carta 1 é a vencedora!\n");
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
